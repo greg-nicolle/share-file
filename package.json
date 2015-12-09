@@ -1,0 +1,10 @@
+{
+    "name" : "Echange de fichier",
+    "main": "./sources/html/index.html",
+    "window": {
+        "width": 500,
+        "height": 500,
+        "toolbar": false,
+        "frame": true 
+    }
+}
